@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sobre Nosotros – Iglesia del Ángel de Pascua</title>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="fonts/novecento-font/novecento-font.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+<div class="site-content">
+
+    <header class="site-header">
+        <div class="container">
+            <a href="index.html" class="branding">
+                <img src="images/angel.png" class="logo">
+                <h1 class="site-title">Iglesia del Ángel de Pascua</h1>
+            </a>
+
+            <div class="main-navigation">
+                <ul class="menu">
+                    <li class="menu-item"><a href="index.html">Inicio</a></li>
+                    <li class="menu-item current-menu-item"><a href="about.html">Sobre Nosotros</a></li>
+                    <li class="menu-item"><a href="sermons.html">Sermones</a></li>
+                    <li class="menu-item"><a href="book.html">El Libro</a></li>
+                </ul>
+            </div>
+        </div>
+    </header>
+
+    <main class="main-content container">
+        <h2>Nuestra Historia</h2>
+        <p>
+            La Iglesia del Ángel de Pascua se fundó tras generaciones de visiones y presagios.  
+            Los antiguos vieron señales de un Mensajero que cruza entre mundos,  
+            trayendo juicio y renovación.
+        </p>
+        <p>
+            Hoy seguimos su legado: estudiar las señales, advertir a quienes buscan  
+            comprensión y preparar a los que desean caminar hacia la luz antes del Cambio Final.
+        </p>
+    </main>
+
+</div>
+</body>
+</html>
